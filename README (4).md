@@ -5,11 +5,9 @@
 ---
 
 ##  Team Members
-<!-- Add your names here -->
-- Student 1 Name
-- Student 2 Name
-- Student 3 Name
-- Student 4 Name
+
+- juan david villada ureche
+
 
 ---
 

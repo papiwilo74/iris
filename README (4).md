@@ -1,10 +1,10 @@
-# 🌸 Iris Species Classification
+#  Iris Species Classification
 
 **Universidad de la Costa · Data Mining · Final Project**
 
 ---
 
-## 👥 Team Members
+##  Team Members
 <!-- Add your names here -->
 - Student 1 Name
 - Student 2 Name
@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 An end-to-end Data Mining project that classifies Iris flowers (**setosa**, **versicolor**, **virginica**) using a **Random Forest** classifier trained on the classic [Iris dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html) (150 samples, 4 features).
 
@@ -39,18 +39,18 @@ The results are communicated through a fully interactive **Streamlit dashboard**
 
 ---
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
 | Page | Content |
 |------|---------|
-| 🏠 **Overview** | Global metrics, scatter matrix, class balance pie, feature importance |
-| 📊 **Data Explorer** | Per-feature histograms, violin plots, correlation heatmap, raw data table |
-| 🤖 **Model Metrics** | Test-set scores, 5-fold CV bar chart, confusion matrix, per-class report |
-| 🔮 **Predict Species** | Slider inputs → real-time prediction + confidence bars + interactive 3D scatter |
+|  **Overview** | Global metrics, scatter matrix, class balance pie, feature importance |
+|  **Data Explorer** | Per-feature histograms, violin plots, correlation heatmap, raw data table |
+|  **Model Metrics** | Test-set scores, 5-fold CV bar chart, confusion matrix, per-class report |
+|  **Predict Species** | Slider inputs → real-time prediction + confidence bars + interactive 3D scatter |
 
 ---
 
-## 🚀 Running Locally
+##  Running Locally
 
 ### 1. Clone the repository
 ```bash
@@ -72,7 +72,7 @@ The app opens automatically at `http://localhost:8501`.
 
 ---
 
-## ☁️ Deploy to Streamlit Cloud (free)
+##  Deploy to Streamlit Cloud (free)
 
 1. Push the repository to GitHub.
 2. Go to [share.streamlit.io](https://share.streamlit.io) → **New app**.
@@ -81,7 +81,7 @@ The app opens automatically at `http://localhost:8501`.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 iris-classification/
@@ -92,7 +92,7 @@ iris-classification/
 
 ---
 
-## 📈 Results Summary
+##  Results Summary
 
 | Metric | Score |
 |--------|-------|
@@ -102,9 +102,8 @@ iris-classification/
 | F1 Score (weighted) | ~97% |
 | CV Mean Accuracy | ~96% |
 
-*(Exact values shown in the dashboard — may vary slightly by run.)*
 
 ---
 
-## 📜 License
+##  License
 Educational use only — Universidad de la Costa, Data Mining course.

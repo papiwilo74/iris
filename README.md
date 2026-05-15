@@ -19,7 +19,7 @@ The results are communicated through a fully interactive **Streamlit dashboard**
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 | Step | Description |
 |------|-------------|
